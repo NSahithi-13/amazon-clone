@@ -7,7 +7,7 @@ It replicates the basic structure and layout of Amazon's homepage, including the
 ---
 
 ## Features
--**Header**: Amazon logo, search bar, navigation links.  
+- **Header**: Amazon logo, search bar, navigation links.  
 - **Footer**: Language selector with India flag, links for policies, and info.  
 - **Product Sectio**n: Grid layout showcasing products with images.  
 - **Responsive Design**: Works well on desktop, tablet, and mobile screens.  
