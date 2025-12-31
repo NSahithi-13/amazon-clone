@@ -16,10 +16,10 @@ It replicates the basic structure and layout of Amazon's homepage, including the
 ---
 
 ## Folder Structure
-Amazon-clone/
-├── images/ # All product and logo images
+Amazon-clone/   ├── images/ # All product and logo images
 ├── index.html # Main HTML file
 └── style.css # CSS for styling the page
+
 
 ## How to View Locally
 1. Clone the repository:
