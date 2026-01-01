@@ -24,6 +24,14 @@ Amazon-clone/
 
 └── style.css # CSS for styling the page
 
+## 📸 Screenshots
+
+### Homepage
+![Homepage](Home1.png  Home2.png  Home3.png)
+
+### Footer Section
+![Footer] (footer.png)
+
 
 ## How to View Locally
 1. Clone the repository:
@@ -33,11 +41,6 @@ git clone https://github.com/NSahithi-13/amazon-clone.git
 2. Navigate to the project folder:
 cd amazon-clone
 
-## 📸 Screenshots
 
-### Homepage
-![Homepage]
 
-### Footer Section
-![Footer]
 
