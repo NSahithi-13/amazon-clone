@@ -33,3 +33,11 @@ git clone https://github.com/NSahithi-13/amazon-clone.git
 2. Navigate to the project folder:
 cd amazon-clone
 
+## 📸 Screenshots
+
+### Homepage
+![Homepage]
+
+### Footer Section
+![Footer]
+
