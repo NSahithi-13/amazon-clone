@@ -27,10 +27,13 @@ Amazon-clone/
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](Home1.png  Home2.png  Home3.png)
+![Homepage]
+(https://github.com/NSahithi-13/amazon-clone/blob/7858f477d4edeb02e7c80542fc20f5bd6f5523ba/Home1.png)
+(https://github.com/NSahithi-13/amazon-clone/blob/7858f477d4edeb02e7c80542fc20f5bd6f5523ba/Home2.png)
+(https://github.com/NSahithi-13/amazon-clone/blob/7858f477d4edeb02e7c80542fc20f5bd6f5523ba/Home3.png)
 
 ### Footer Section
-![Footer] (footer.png)
+![Footer](https://github.com/NSahithi-13/amazon-clone/blob/7858f477d4edeb02e7c80542fc20f5bd6f5523ba/footer.png)
 
 
 ## How to View Locally
